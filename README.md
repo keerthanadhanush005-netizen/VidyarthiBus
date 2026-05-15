@@ -57,9 +57,14 @@ graph TD
 
 ---
 
-## 👥 Credits
+## 👥 Project Credits & Details
 
-This project was created with ❤️ by **Sachin and team**.
+- **Developer**: **Keerthana GK and team**
+- **USN**: 1AH22CS074
+- **College**: ACS College of Engineering, Bangalore
+- **Internship**: MindMatrix Internship Project
+- **Contact**: keerthanadhanush005@gmail.com
+- **Phone**: +91 9964365367
 
 ---
 
@@ -67,7 +72,7 @@ This project was created with ❤️ by **Sachin and team**.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/01Sachinc/android_app.git
+   git clone https://github.com/keerthanadhanush005-netizen/VidyarthiBus.git
    ```
 2. **Open in Android Studio**:
    Import the project and let Gradle sync.
@@ -79,4 +84,4 @@ This project was created with ❤️ by **Sachin and team**.
    - Set up Realtime Database.
 
 ---
-*Developed to bridge the communication gap for students in remote areas.*
+*Developed by Keerthana GK to bridge the communication gap for students.*
