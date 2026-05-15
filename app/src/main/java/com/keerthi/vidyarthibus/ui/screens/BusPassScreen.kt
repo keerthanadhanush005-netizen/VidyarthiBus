@@ -87,15 +87,24 @@ fun BusPassScreen(navController: NavController) {
                         Spacer(modifier = Modifier.height(40.dp))
                         
                         Text("KEERTHANA G K", color = Color.White, fontSize = 24.sp, fontWeight = FontWeight.ExtraBold)
-                        Text("ID: VB-2024-008", color = Color.White.copy(alpha = 0.8f))
+                        Text("USN: 1AH22CS074", color = Color.White.copy(alpha = 0.9f), fontSize = 14.sp, fontWeight = FontWeight.Bold)
+                        Text("ACS College of Engineering", color = Color.White.copy(alpha = 0.8f), fontSize = 12.sp)
                         
-                        Spacer(modifier = Modifier.height(10.dp))
+                        Spacer(modifier = Modifier.height(8.dp))
                         Text(
-                            text = "Route: Madavara Banglore Nice Rode",
+                            text = "Route: Madavara Bangalore Nice Road",
                             color = Color.White,
-                            fontSize = 14.sp,
+                            fontSize = 13.sp,
                             fontWeight = FontWeight.Medium,
                             textAlign = androidx.compose.ui.text.style.TextAlign.Center
+                        )
+                        
+                        Spacer(modifier = Modifier.height(16.dp))
+                        Text(
+                            text = "MindMatrix Internship Project",
+                            color = Color.White.copy(alpha = 0.7f),
+                            fontSize = 10.sp,
+                            style = androidx.compose.ui.text.TextStyle(fontStyle = androidx.compose.ui.text.font.FontStyle.Italic)
                         )
                         
                         Spacer(modifier = Modifier.height(20.dp))
